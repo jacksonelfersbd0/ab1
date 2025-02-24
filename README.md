@@ -1,5 +1,10 @@
-# 📥 Download AB1  
-_Available for Windows, Linux, and Android._
+# 📥 Download Albahl Episode 1  
+_Available for Windows, Linux, Android, and now playable in your browser!_  
+
+## 🌐 Play in Your Browser  
+🎮 **[Play Now](https://jacksonelfersbd0.github.io/ab1/)** – No download required!  
+
+---
 
 ## 🖥️ Desktop Versions  
 | Platform | Download |
@@ -27,6 +32,6 @@ _Available for Windows, Linux, and Android._
 
 ---
 
-## ℹ️ About AB1  
-_Albahl is an episodic series of a ball, dancing to the beat, and helping it's village people, minus the YMCA. It's all about rhythm, and puzzles, while taking flight as a spherical zebra patterned orb._
+## ℹ️ About Albahl  
+_Albahl is an episodic series of a ball, dancing to the beat, and helping its village people—minus the YMCA. It's all about rhythm and puzzles, while taking flight as a spherical, zebra-patterned orb._  
 
