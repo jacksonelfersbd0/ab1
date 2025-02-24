@@ -32,6 +32,15 @@ _Available for Windows, Linux, Android, and now playable in your browser!_
 
 ---
 
+## 🎮 How to Play  
+| Control | Action |
+|---------|--------|
+| **WASD / Arrow Keys** | Move the ball |
+| **Mouse** | Look around |
+| **Shift** | Interact with objects |
+
+---
+
 ## ℹ️ About Albahl  
 _Albahl is an episodic series of a ball, dancing to the beat, and helping its village people—minus the YMCA. It's all about rhythm and puzzles, while taking flight as a spherical, zebra-patterned orb._  
 
